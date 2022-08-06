@@ -1,0 +1,9 @@
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+.build/
+xcuserdata/
